@@ -1,0 +1,62 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Color de acento de la marca (hover, botones, bordes activos, etc.) */
+  --ifm-color-primary: #ff610a;
+  --ifm-color-primary-dark: #d64c00;
+  --ifm-color-primary-darker: #bd4300;
+  --ifm-color-primary-darkest: #702800;
+  --ifm-color-primary-light: #ff823d;
+  --ifm-color-primary-lighter: #ff9257;
+  --ifm-color-primary-lightest: #ffc4a3;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --ifm-font-family-base: 'Bricolage Grotesque', system-ui, -apple-system,
+    'Segoe UI', Roboto, sans-serif;
+  --ifm-heading-font-family: var(--ifm-font-family-base);
+
+  /* Navbar de marca: fondo naranja con texto/íconos blancos. */
+  --ifm-navbar-background-color: #f18604;
+  --ifm-navbar-link-color: #fff;
+  --ifm-navbar-link-hover-color: #ffe5cf;
+}
+
+/* La paleta de marca se mantiene igual en modo oscuro. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff610a;
+  --ifm-color-primary-dark: #d64c00;
+  --ifm-color-primary-darker: #bd4300;
+  --ifm-color-primary-darkest: #702800;
+  --ifm-color-primary-light: #ff823d;
+  --ifm-color-primary-lighter: #ff9257;
+  --ifm-color-primary-lightest: #ffc4a3;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --ifm-navbar-background-color: #f18604;
+  --ifm-navbar-link-color: #fff;
+  --ifm-navbar-link-hover-color: #ffe5cf;
+}
+
+/* Texto, logo e íconos de la navbar en blanco (título, links, toggle, hamburguesa). */
+.navbar__title,
+.navbar__link,
+.navbar__brand,
+.navbar-sidebar__brand {
+  color: #fff;
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  color: #ffe5cf;
+}
+
+.navbar__toggle,
+.navbar__items__right > div[class*='toggle_'] svg {
+  color: #fff;
+}
