@@ -17,12 +17,11 @@ title: "Tecnicatura Universitaria en Comunicación Digital"
 
 ## Perfil del egresade
 
-Quien egresa de esta tecnicatura cuenta con herramientas técnicas y creativas
-para colaborar en la producción y gestión de contenidos en medios
-tradicionales y plataformas multimedia. Puede participar en la producción y
-edición de contenidos en distintos lenguajes y soportes, sumarse a proyectos
-con impacto social, aportar a la producción audiovisual y sonora, y manejar
-conocimientos técnicos sobre el funcionamiento de plataformas digitales.
+Los conocimientos adquiridos en esta carrera te permitirán desarrollar tus habilidades técnicas,
+instrumentales y creativas para ponerlas en práctica en la producción y gestión de contenidos
+en medios y plataformas. Podrás poner en acción conocimientos técnicos sobre el funcionamiento
+de ecosistemas digitales, desenvolverse tanto en la producción como en la edición de contenidos
+y ser parte de proyectos con impacto social.
 
 ## Plan de estudios
 

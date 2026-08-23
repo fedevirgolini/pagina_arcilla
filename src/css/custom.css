@@ -60,3 +60,11 @@
 .navbar__items__right > div[class*='toggle_'] svg {
   color: #fff;
 }
+
+/* Fila de botones que envuelve prolijamente (ej. listado de carreras). */
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}

@@ -16,13 +16,14 @@ title: "Licenciatura en Periodismo y Contenidos Multimediales"
 
 ## Perfil del egresade
 
-Quien egresa de esta carrera adquiere las herramientas técnicas y creativas
-para coordinar equipos y medios de comunicación, definir estrategias de
-contenido a partir del estudio de audiencias, y producir y gestionar
-contenidos periodísticos y no periodísticos para medios tradicionales,
-industrias culturales y plataformas multimedia. Se forma un profesional con
-mirada crítica, capaz de aportar al debate público y comprometido con los
-derechos humanos y los valores democráticos.
+Los conocimientos adquiridos en esta carrera te permitirán desarrollar herramientas
+técnicas y creativas para la producción de contenidos multimediales y la coordinación
+de equipos de comunicación. Aprenderás lo necesario para definir estrategias comunicacionales
+a partir del estudio de audiencias; producir y gestionar tanto contenidos periodísticos
+como no periodísticos. Podrás trabajar para  medios tradicionales,
+industrias culturales y plataformas multimedia. Esta propuesta se enfoca en
+formar profesionales con mirada crítica, capaces de aportar nuevos sentidos al
+debate público, comprometides con la democracia y los Derechos Humanos.
 
 ## Plan de estudios
 
