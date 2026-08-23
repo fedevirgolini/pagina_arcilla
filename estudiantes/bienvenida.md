@@ -6,11 +6,13 @@ description: Recursos e información para estudiantes que ya están cursando.
 slug: /
 ---
 
-# Recursos para estudiantes
+En esta sección recopilamos todo lo que necesitás saber en tu paso por la
+universidad pública. Vas a poder encontrar todas las novedades respecto a la
+implementación de los nuevos planes de estudio y el proceso de transición.
+Además, vas a poder conocer los espacios que componen el Centro de
+Estudiantes y cómo podés participar en cada uno de ellos.
 
-Acá vas a encontrar información útil para tu día a día en la facultad:
-materias, trámites, recursos de estudio y novedades del centro.
-
-Por ahora esto es un documento de ejemplo. Para agregar más contenido a
-esta sección, creá nuevos archivos `.md` dentro de la carpeta
-`estudiantes/` — van a aparecer automáticamente en este menú lateral.
+<div className="button-row">
+  <a className="button button--primary button--lg" href="/estudiantes/proceso-academico-nuevas-carreras">¿Qué va a pasar con mi proceso académico a partir de la implementación de las nuevas carreras?</a>
+  <a className="button button--primary button--lg" href="/estudiantes/espacios-cecc">Espacios del CECC</a>
+</div>

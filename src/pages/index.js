@@ -3,11 +3,13 @@ import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
+import Heading from '@theme/Heading';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
+  const logoUrl = useBaseUrl('/img/arcilla_logo_naranja.png');
   const videoUrl = useBaseUrl('/video/video_introductorio.mp4');
   const videoRef = useRef(null);
   const [isMuted, setIsMuted] = useState(true);
@@ -21,6 +23,7 @@ function HomepageHeader() {
 
   return (
     <header className={styles.heroBanner}>
+      <img className={styles.logo} src={logoUrl} alt="Arcilla CECC" />
       <div className={styles.videoWrapper}>
         <video
           ref={videoRef}
@@ -71,6 +74,22 @@ function HomepageHeader() {
   );
 }
 
+function HomepageIntro() {
+  return (
+    <section className={styles.introSection}>
+      <div className={clsx('container', 'text--center')}>
+        <Heading as="h1" className={styles.introTitle}>
+          ¡Bienvenido/a a la página oficial del CECC!
+        </Heading>
+        <p className={styles.introSubtitle}>
+          En este espacio vas a encontrar toda la información que necesites
+          durante tu paso por la facu
+        </p>
+      </div>
+    </section>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -79,6 +98,7 @@ export default function Home() {
       description={siteConfig.tagline}>
       <HomepageHeader />
       <main>
+        <HomepageIntro />
         <HomepageFeatures />
       </main>
     </Layout>

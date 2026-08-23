@@ -6,7 +6,7 @@ description: Información para quienes están por empezar la facultad.
 slug: /
 ---
 
-# ¡Bienvenido/a a la facultad!
+# ¡Bienvenide a la facultad!
 
 En la Facultad de Ciencias de la Comunicación podés optar por cuatro propuestas presenciales
 y gratuitas. Además, encontrarás dos propuestas de formación a distancia. 
@@ -15,7 +15,7 @@ A continuación podrás ver en detalle la información correspondiente a cada ca
 ## Propuestas presenciales
 
 <div className="button-row">
-  <a className="button button--primary button--lg" href="/ingresantes/presencial/carrera1">Periodismo y Contenidos<br className="mobile-break" />Multimediales</a>
+  <a className="button button--primary button--lg" href="/ingresantes/presencial/carrera1">Periodismo y Contenidos Multimediales</a>
   <a className="button button--primary button--lg" href="/ingresantes/presencial/carrera2">Comunicación Digital</a>
   <a className="button button--primary button--lg" href="/ingresantes/presencial/carrera3">Investigación Comunicacional</a>
   <a className="button button--primary button--lg" href="/ingresantes/presencial/carrera4">Relaciones Públicas y Protocolo</a>

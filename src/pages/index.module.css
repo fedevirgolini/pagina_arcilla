@@ -5,8 +5,16 @@
 
 .heroBanner {
   display: flex;
-  justify-content: center;
-  padding: 4rem 0;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0 4rem;
+}
+
+.logo {
+  width: 100%;
+  max-width: 280px;
+  height: auto;
+  margin-bottom: 1.5rem;
 }
 
 .videoWrapper {
@@ -47,12 +55,37 @@
   background: var(--ifm-color-primary);
 }
 
+.introSection {
+  padding: 3rem 1rem 1rem;
+}
+
+.introTitle {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.introSubtitle {
+  max-width: 640px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--ifm-font-color-base);
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1.5rem 2rem 2rem;
+  }
+
+  .logo {
+    max-width: 200px;
   }
 
   .videoWrapper {
     width: 90%;
+  }
+
+  .introSection {
+    padding: 2rem 1.5rem 0.5rem;
   }
 }

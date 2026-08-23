@@ -69,13 +69,10 @@
   margin: 1.5rem 0;
 }
 
-/* <br> condicional: solo fuerza el salto de línea en pantallas chicas (ej. botón "Periodismo y Contenidos Multimediales"). */
-.mobile-break {
-  display: none;
-}
-
-@media screen and (max-width: 996px) {
-  .mobile-break {
-    display: block;
-  }
+/* Infima define .button con white-space: nowrap; lo anulamos para que el
+   texto de los botones largos (ej. "Periodismo y Contenidos Multimediales")
+   ajuste línea de forma fluida según el ancho disponible, en vez de depender
+   de un <br> fijo a un breakpoint. */
+.button-row .button {
+  white-space: normal;
 }
