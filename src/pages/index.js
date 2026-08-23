@@ -7,7 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const videoUrl = useBaseUrl('/video/video_tatin.mp4');
+  const videoUrl = useBaseUrl('/video/video_introductorio.mp4');
   return (
     <header className={styles.heroBanner}>
       <video
@@ -15,6 +15,8 @@ function HomepageHeader() {
         src={videoUrl}
         autoPlay
         muted
+        loop
+        controls
         playsInline
       />
     </header>
