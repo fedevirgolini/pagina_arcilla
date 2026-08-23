@@ -9,6 +9,7 @@ title: "Tecnicatura Universitaria en Comunicación Digital"
 | Información | Detalle |
 |---|---|
 | **Título que otorga** | Técnico/a Universitario/a en Comunicación Digital |
+| **Costo** | Gratuita |
 | **Duración** | 2 años |
 | **Modalidad** | Presencial |
 | **Título** | De pregrado |
@@ -17,16 +18,12 @@ title: "Tecnicatura Universitaria en Comunicación Digital"
 
 ## Perfil del egresade
 
-Los conocimientos adquiridos en esta carrera te permitirán desarrollar tus habilidades técnicas,
-instrumentales y creativas para ponerlas en práctica en la producción y gestión de contenidos
-en medios y plataformas. Podrás poner en acción conocimientos técnicos sobre el funcionamiento
-de ecosistemas digitales, desenvolverse tanto en la producción como en la edición de contenidos
-y ser parte de proyectos con impacto social.
+Los conocimientos adquiridos en esta carrera te permitirán desarrollar tus habilidades técnicas, instrumentales y creativas para ponerlas en práctica en la producción y gestión de contenidos en medios y plataformas. Podrás poner en acción conocimientos técnicos sobre el funcionamiento de ecosistemas digitales, desenvolverse tanto en la producción como en la edición de contenidos y ser parte de proyectos con impacto social.
 
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio</b></summary>
+<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -34,7 +31,7 @@ y ser parte de proyectos con impacto social.
 </details>
 
 <details>
-<summary><b>1° año</b></summary>
+<summary><b>1° año (común a todas las propuestas)</b></summary>
 
 - Prácticas del lenguaje
 - Taller de Cultura digital
@@ -50,7 +47,7 @@ y ser parte de proyectos con impacto social.
 </details>
 
 <details>
-<summary><b>2° año</b></summary>
+<summary><b>2° año (común a Licenciatura en Periodismo y Contenidos Multimediales)</b></summary>
 
 - Narrativas audiovisuales
 - Taller de Edición audiovisual

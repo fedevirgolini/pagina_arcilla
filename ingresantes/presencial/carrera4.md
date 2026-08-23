@@ -9,6 +9,7 @@ title: "Tecnicatura Universitaria en Relaciones Públicas y Protocolo"
 | Información | Detalle |
 |---|---|
 | **Título que otorga** | Técnico/a Universitario/a en Relaciones Públicas y Protocolo |
+| **Costo** | Gratuita |
 | **Duración** | 2 años |
 | **Modalidad** | Presencial |
 | **Título** | De pregrado |
@@ -17,17 +18,12 @@ title: "Tecnicatura Universitaria en Relaciones Públicas y Protocolo"
 
 ## Perfil del egresade
 
-Quien egresa de esta tecnicatura está capacitado/a para integrar equipos
-responsables de la gestión de comunicación y prensa desde una mirada
-estratégica. Puede sumarse a proyectos de comunicación, relaciones públicas
-y organización de eventos en organizaciones privadas, públicas, del tercer
-sector y comunitarias, además de colaborar en la planificación de eventos
-según las normas de ceremonial y protocolo.
+Los conocimientos adquiridos en esta carrera te permitirán ser parte de la gestión de acciones de comunicación y prensa con perspectiva estratégica. Podrás integrar equipos de asesoramiento técnico en proyectos comunicacionales, relaciones públicas y organización de eventos para organizaciones de diversos sectores, así como también aportar desde el punto de vista del ceremonial y protocolo.
 
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio</b></summary>
+<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -35,7 +31,7 @@ según las normas de ceremonial y protocolo.
 </details>
 
 <details>
-<summary><b>1° año</b></summary>
+<summary><b>1° año (común a todas las propuestas)</b></summary>
 
 - Prácticas del lenguaje
 - Taller de Cultura digital

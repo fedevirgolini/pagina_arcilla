@@ -9,11 +9,11 @@ title: "Tecnicatura Universitaria en Gestión de la Comunicación Turística"
 | Información | Detalle |
 |---|---|
 | **Título que otorga** | Técnico/a Universitario/a en Gestión de la Comunicación Turística |
+| **Costo** | Arancelada |
 | **Duración** | 2 años y medio |
 | **Modalidad** | A distancia |
 | **Título** | De pregrado |
-| **Validez** | A confirmar |
-| **Carga horaria total** | A confirmar |
+| **Carga horaria total** | 1508 horas reloj |
 
 ## Perfil del egresade
 
@@ -37,7 +37,7 @@ congresos, ferias y encuentros vinculados al turismo, entre otras tareas.
 </details>
 
 <details>
-<summary><b>1° año</b></summary>
+<summary><b>1° año (común a todas las propuestas)</b></summary>
 
 - Enfoques de comunicación estratégica
 - Lenguajes comunicacionales

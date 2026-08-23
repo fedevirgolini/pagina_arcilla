@@ -9,6 +9,7 @@ title: "Tecnicatura Universitaria en Investigación Comunicacional"
 | Información | Detalle |
 |---|---|
 | **Título que otorga** | Técnico/a Universitario/a en Investigación Comunicacional |
+| **Costo** | Gratuita |
 | **Duración** | 2 años |
 | **Modalidad** | Presencial |
 | **Título** | De pregrado |
@@ -17,17 +18,12 @@ title: "Tecnicatura Universitaria en Investigación Comunicacional"
 
 ## Perfil del egresade
 
-Quien egresa de esta tecnicatura está capacitado/a para colaborar en tareas
-técnicas de producción de conocimiento sobre procesos de comunicación. Puede
-integrarse a equipos de investigación y consultoría, participar en estudios
-sobre audiencias, públicos, consumos culturales y opinión pública, y sumarse
-a proyectos de investigación aplicada, investigación-acción y comunicación
-pública de la ciencia.
+En esta carrera adquirirás capacidades para colaborar en tareas técnicas en la producción de conocimiento científico en el campo de la comunicación. Podrás formar parte de equipos de investigación y consultoría en estudios de audiencias, públicos, consumos culturales y opinión pública. También tendrás capacidad para ser parte de proyectos de investigación y comunicación pública de la ciencia.
 
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio</b></summary>
+<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -35,7 +31,7 @@ pública de la ciencia.
 </details>
 
 <details>
-<summary><b>1° año</b></summary>
+<summary><b>1° año (común a todas las propuestas)</b></summary>
 
 - Prácticas del lenguaje
 - Taller de Cultura digital

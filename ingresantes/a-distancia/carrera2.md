@@ -9,11 +9,11 @@ title: "Tecnicatura Universitaria en Periodismo Deportivo"
 | Información | Detalle |
 |---|---|
 | **Título que otorga** | Técnico/a Universitario/a en Periodismo Deportivo |
+| **Costo** | Arancelada |
 | **Duración** | 2 años y medio |
 | **Modalidad** | A distancia |
 | **Título** | De pregrado |
-| **Validez** | A confirmar |
-| **Carga horaria total** | A confirmar |
+| **Carga horaria total** | 1508 horas reloj |
 
 ## Perfil del egresade
 
@@ -37,7 +37,7 @@ para organizaciones deportivas públicas y privadas.
 </details>
 
 <details>
-<summary><b>1° año</b></summary>
+<summary><b>1° año (común a todas las propuestas)</b></summary>
 
 - Culturas, deportes e industrias culturales
 - Formatos y géneros del periodismo deportivo

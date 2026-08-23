@@ -9,6 +9,7 @@ title: "Licenciatura en Periodismo y Contenidos Multimediales"
 | Información | Detalle |
 |---|---|
 | **Título que otorga** | Licenciade en Periodismo y Contenidos Multimediales |
+| **Costo** | Gratuita |
 | **Duración** | 4 años y medio |
 | **Modalidad** | Presencial |
 | **Título** | De grado |
@@ -16,19 +17,14 @@ title: "Licenciatura en Periodismo y Contenidos Multimediales"
 
 ## Perfil del egresade
 
-Los conocimientos adquiridos en esta carrera te permitirán desarrollar herramientas
-técnicas y creativas para la producción de contenidos multimediales y la coordinación
-de equipos de comunicación. Aprenderás lo necesario para definir estrategias comunicacionales
-a partir del estudio de audiencias; producir y gestionar tanto contenidos periodísticos
-como no periodísticos. Podrás trabajar para  medios tradicionales,
-industrias culturales y plataformas multimedia. Esta propuesta se enfoca en
-formar profesionales con mirada crítica, capaces de aportar nuevos sentidos al
-debate público, comprometides con la democracia y los Derechos Humanos.
+Los conocimientos adquiridos en esta carrera te permitirán desarrollar herramientas técnicas y creativas para la producción de contenidos multimediales y la coordinación de equipos de comunicación. Aprenderás lo necesario para definir estrategias comunicacionales a partir del estudio de audiencias; producir y gestionar tanto contenidos periodísticos como no periodísticos. Podrás trabajar para  medios tradicionales,
+industrias culturales y plataformas multimedia. Esta propuesta se enfoca en formar profesionales con mirada crítica, capaces de aportar nuevos sentidos al debate público, comprometides con la democracia y los Derechos Humanos.
+
 
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio</b></summary>
+<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -36,7 +32,7 @@ debate público, comprometides con la democracia y los Derechos Humanos.
 </details>
 
 <details>
-<summary><b>1° año</b></summary>
+<summary><b>1° año (común a todas las propuestas)</b></summary>
 
 - Prácticas del lenguaje
 - Taller de Cultura digital
@@ -52,7 +48,7 @@ debate público, comprometides con la democracia y los Derechos Humanos.
 </details>
 
 <details>
-<summary><b>2° año</b></summary>
+<summary><b>2° año (común a Tecnicatura Universitaria en Comunicación Digital)</b></summary>
 
 - Narrativas audiovisuales
 - Taller de Edición audiovisual
