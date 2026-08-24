@@ -80,3 +80,13 @@ Quienes egresan de esta tecnicatura se forman como comunicadores especializades 
 - **Contenidos digitales en redes sociales:** como community manager o
   responsable de contenidos.
 - **Clubes deportivos:** en áreas de comunicación y prensa.
+
+## ¿Cómo se gestionan los pagos?
+
+Al momento de inscribirte además de crear tu usuario Guaraní tendrás que registrarte en el Sistema Sanaviron.
+
+En esta plataforma podrás gestionar los cupones de pago que debes abonar en concepto de matrícula y cuota anual; en los mismos saldrán detalladas las fechas de vencimiento.
+
+Para tu inscripción a la propuesta te solicitarán adjuntar el comprobante de pago correspondiente a la matrícula de ingreso al ciclo lectivo 2027. Además, es importante que sepas que podrás desdoblar la cuota anual en dos pagos, el primero vencerá en marzo y el siguiente en agosto.
+
+Los canales de pago habilitados son Rapipago en forma presencial o APP Rapipago, Red Link y plataforma SIRO (en este último caso, con tarjeta de débito, crédito, o billeteras virtuales).
