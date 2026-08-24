@@ -13,6 +13,7 @@ Además, vas a poder conocer los espacios que componen el Centro de
 Estudiantes y cómo podés participar en cada uno de ellos.
 
 <div className="button-row">
-  <a className="button button--primary button--lg" href="/estudiantes/proceso-academico-nuevas-carreras">¿Qué va a pasar con mi proceso académico a partir de la implementación de las nuevas carreras?</a>
+  <a className="button button--primary button--lg" href="/estudiantes/proceso-academico-nuevas-carreras">Rumbo a las nuevas carreras</a>
   <a className="button button--primary button--lg" href="/estudiantes/espacios-cecc">Espacios del CECC</a>
+  <a className="button button--primary button--lg" href="/estudiantes/derechos-estudiantes">Derechos de les estudiantes</a>
 </div>

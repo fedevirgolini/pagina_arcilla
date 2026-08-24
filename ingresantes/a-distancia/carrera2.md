@@ -17,13 +17,7 @@ title: "Tecnicatura Universitaria en Periodismo Deportivo"
 
 ## Perfil del egresade
 
-Quien egresa de esta tecnicatura se forma como comunicador/a social con foco
-en la cobertura deportiva, capaz de producir, planificar y editar contenidos
-periodísticos en distintos formatos y plataformas. Puede integrarse a
-equipos interdisciplinarios de productores, editores y realizadores de
-contenido deportivo y recreativo, colaborar en coberturas y relatos de
-eventos deportivos, y participar en la gestión de proyectos comunicacionales
-para organizaciones deportivas públicas y privadas.
+Quienes egresan de esta tecnicatura se forman como comunicadores especializades en periodismo deportivo. Cuentan con herramientas para investigar, producir, planificar y editar contenidos sobre deportes en distintos formatos y plataformas. Su formación les permite participar en coberturas, relatos y transmisiones de eventos deportivos, integrar equipos de producción y colaborar en proyectos comunicacionales para organizaciones deportivas ya sean públicas, privadas o comunitarias.
 
 ## Plan de estudios
 
@@ -37,7 +31,7 @@ para organizaciones deportivas públicas y privadas.
 </details>
 
 <details>
-<summary><b>1° año (común a todas las propuestas)</b></summary>
+<summary><b>1° año</b></summary>
 
 - Culturas, deportes e industrias culturales
 - Formatos y géneros del periodismo deportivo

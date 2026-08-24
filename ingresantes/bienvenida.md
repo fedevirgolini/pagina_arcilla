@@ -30,5 +30,6 @@ A continuación podrás ver en detalle la información correspondiente a cada ca
 
 ## ¿Cómo me inscribo?
 
-Desde el 30 de noviembre al 11 de diciembre vas a poder realizar la inscripción al ciclo lectivo 2027 por medio del sistema SIU Guaraní.
-Por el momento, podés ir preparando tu DNI o pasaporte escaneado de ambos lados. Además vas a necesitar el certificado de alumno regular correspondiente al último año del secundario o analítico en trámite.
+Desde el 30 de noviembre al 11 de diciembre vas a poder realizar la inscripción al ciclo lectivo 2027 por medio del sistema SIU Guaraní. Por el momento, podés ir preparando tu DNI el cual deberás escanear o fotografiar de ambos lados. Además vas a necesitar el certificado de alumno regular correspondiente al último año del secundario o analítico en trámite. 
+
+Si ya egresaste del secundario podes presentar tu analítico. Tené en cuenta que más adelante, deberás realizar el trámite para legalizar tu analítico en la Oficialía Mayor de la UNC, para luego entregar en la Oficina de Estudiantes de nuestra facultad. 

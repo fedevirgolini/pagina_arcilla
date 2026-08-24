@@ -23,7 +23,9 @@ Los conocimientos adquiridos en esta carrera te permitirán desarrollar tus habi
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
+<summary><b>Ciclo introductorio</b></summary>
+
+(común a todas las propuestas)
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -31,7 +33,9 @@ Los conocimientos adquiridos en esta carrera te permitirán desarrollar tus habi
 </details>
 
 <details>
-<summary><b>1° año (común a todas las propuestas)</b></summary>
+<summary><b>1° año</b></summary>
+
+(común a todas las propuestas)
 
 - Prácticas del lenguaje
 - Taller de Cultura digital
@@ -47,7 +51,9 @@ Los conocimientos adquiridos en esta carrera te permitirán desarrollar tus habi
 </details>
 
 <details>
-<summary><b>2° año (común a Licenciatura en Periodismo y Contenidos Multimediales)</b></summary>
+<summary><b>2° año</b></summary>
+
+(común a Licenciatura en Periodismo y Contenidos Multimediales)
 
 - Narrativas audiovisuales
 - Taller de Edición audiovisual

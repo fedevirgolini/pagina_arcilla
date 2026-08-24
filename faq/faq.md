@@ -32,10 +32,7 @@ años.
 <details>
 <summary><b>¿Cómo sé qué materias me van a reconocer?</b></summary>
 
-La facultad lanzará un simulador de equivalencias donde podrás ver
-cargar las materias que ya aprobaste del plan 93 y te devolverá un listado con las
-materias que serán reconocidas en los nuevos planes.
-Se considera como materia aprobada aquellas que tenés cargadas en el SIU Guaraní con su nota final.
+La facultad pondrá a disposición un calculador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní. 
 
 </details>
 
@@ -120,8 +117,6 @@ completar la instancia y recibirte.
 <details>
 <summary><b>¿Qué pasa si quedo libre en una materia que el año siguiente deja de dictarse?</b></summary>
 
-Vas a poder rendirla en condición de libre, pero no recursarla. La Facultad
-va a publicar más información sobre estas situaciones puntuales más
-adelante.
+¡No te preocupes! Vas a poder rendir en condición de Libre. Además desde el Centro de Estudiantes en articulación con la Gestión de la Facultad garantizaremos la implementación de nuevas instancias y posibilidades que faciliten la continuidad y egreso de quienes pertenecemos al Plan 93. 
 
 </details>

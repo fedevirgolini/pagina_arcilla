@@ -24,7 +24,9 @@ industrias culturales y plataformas multimedia. Esta propuesta se enfoca en form
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
+<summary><b>Ciclo introductorio</b></summary>
+
+(común a todas las propuestas)
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -32,7 +34,9 @@ industrias culturales y plataformas multimedia. Esta propuesta se enfoca en form
 </details>
 
 <details>
-<summary><b>1° año (común a todas las propuestas)</b></summary>
+<summary><b>1° año</b></summary>
+
+(común a todas las propuestas)
 
 - Prácticas del lenguaje
 - Taller de Cultura digital
@@ -48,7 +52,9 @@ industrias culturales y plataformas multimedia. Esta propuesta se enfoca en form
 </details>
 
 <details>
-<summary><b>2° año (común a Tecnicatura Universitaria en Comunicación Digital)</b></summary>
+<summary><b>2° año</b></summary>
+
+(común a Tecnicatura Universitaria en Comunicación Digital)
 
 - Narrativas audiovisuales
 - Taller de Edición audiovisual

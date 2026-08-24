@@ -23,7 +23,9 @@ En esta carrera adquirirás capacidades para colaborar en tareas técnicas en la
 ## Plan de estudios
 
 <details>
-<summary><b>Ciclo introductorio (común a todas las propuestas)</b></summary>
+<summary><b>Ciclo introductorio</b></summary>
+
+(común a todas las propuestas)
 
 - Taller de Lectura y escritura académica
 - Introducción a las carreras de comunicación
@@ -31,7 +33,9 @@ En esta carrera adquirirás capacidades para colaborar en tareas técnicas en la
 </details>
 
 <details>
-<summary><b>1° año (común a todas las propuestas)</b></summary>
+<summary><b>1° año</b></summary>
+
+(común a todas las propuestas)
 
 - Prácticas del lenguaje
 - Taller de Cultura digital

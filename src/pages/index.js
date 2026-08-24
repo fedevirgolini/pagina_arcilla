@@ -79,11 +79,13 @@ function HomepageIntro() {
     <section className={styles.introSection}>
       <div className={clsx('container', 'text--center')}>
         <Heading as="h1" className={styles.introTitle}>
-          ¡Bienvenido/a a la página oficial del CECC!
+          ¡Les damos la bienvenida a la página oficial del Centro de Estudiantes de Ciencias de la Comunicación!
         </Heading>
         <p className={styles.introSubtitle}>
-          En este espacio vas a encontrar toda la información que necesites
-          durante tu paso por la facu
+          ¡Hola! Esta es la página donde encontrarás toda la información de la Facultad de Ciencias de la Comunicación y del Centro de Estudiantes. Queremos que conozcas todo lo que la FCC tiene para ofrecernos a les estudiantes y cada uno de los espacios en los que participamos y somos protagonistas. 
+        </p>
+        <p className={styles.introSubtitle}>
+          Cada día, desde Arcilla, Conducción del Centro de Estudiantes (o CECC como nos gusta decirle) construimos una Facultad llena de propuestas que acompañan la vida estudiantil. Entre compañeros y compañeras de todos los años nos organizamos, discutimos y creamos esa <strong>facultad que soñamos</strong> y nos merecemos. Les invitamos a conocer y ser parte.
         </p>
       </div>
     </section>

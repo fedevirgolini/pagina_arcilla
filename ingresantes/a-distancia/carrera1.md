@@ -17,14 +17,7 @@ title: "Tecnicatura Universitaria en Gestión de la Comunicación Turística"
 
 ## Perfil del egresade
 
-Quien egresa de esta tecnicatura cuenta con conocimientos sobre patrimonio y
-servicios turísticos, y puede acompañar y asesorar en el diseño de
-experiencias turísticas desde la comunicación. Su formación le permite
-colaborar en la producción de contenidos gráficos, radiales, audiovisuales y
-multiplataforma para el sector turístico, asistir en la edición de contenido
-institucional y publicitario, y participar en la gestión de eventos como
-congresos, ferias y encuentros vinculados al turismo, entre otras tareas.
-
+Quienes egresan de esta tecnicatura cuentan con una formación especializada en patrimonio y servicios turísticos, cuentan con herramientas para acompañar, orientar, informar y diseñar experiencias turísticas desde la comunicación. Su campo de acción incluye la producción de contenidos gráficos, radiales, audiovisuales y multiplataforma, la edición de piezas institucionales o publicitarias, además de la organización de congresos, ferias y otros eventos vinculados al turismo.
 ## Plan de estudios
 
 <details>
@@ -37,7 +30,7 @@ congresos, ferias y encuentros vinculados al turismo, entre otras tareas.
 </details>
 
 <details>
-<summary><b>1° año (común a todas las propuestas)</b></summary>
+<summary><b>1° año</b></summary>
 
 - Enfoques de comunicación estratégica
 - Lenguajes comunicacionales
