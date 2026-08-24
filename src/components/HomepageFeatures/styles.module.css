@@ -1,8 +1,56 @@
 .features {
+  position: relative;
   display: flex;
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  overflow: hidden;
+}
+
+.featuresContent {
+  position: relative;
+  z-index: 1;
+}
+
+.chirimbolo {
+  position: absolute;
+  z-index: 0;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+
+.chirimboloBlob {
+  top: 8%;
+  left: -6%;
+  width: clamp(180px, 22vw, 360px);
+  opacity: 0.4;
+  transform: rotate(-8deg);
+}
+
+.chirimboloGrid {
+  bottom: 6%;
+  right: 4%;
+  width: clamp(80px, 10vw, 150px);
+  opacity: 0.5;
+  transform: rotate(6deg);
+}
+
+/* La grilla es negra: en modo oscuro se invierte para que no
+   desaparezca contra el fondo oscuro. */
+[data-theme='dark'] .chirimboloGrid {
+  filter: invert(1);
+}
+
+@media screen and (max-width: 996px) {
+  .chirimboloBlob {
+    display: none;
+  }
+
+  .chirimboloGrid {
+    width: clamp(50px, 12vw, 90px);
+    opacity: 0.35;
+  }
 }
 
 .featureCard {

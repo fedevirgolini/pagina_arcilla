@@ -1,5 +1,6 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -35,9 +36,24 @@ function Feature({title, to, description}) {
 }
 
 export default function HomepageFeatures() {
+  const chirimboloBlobUrl = useBaseUrl('/img/chirimbolos/chirimbolos-11.png');
+  const chirimboloGridUrl = useBaseUrl('/img/chirimbolos/chirimbolos-08.png');
+
   return (
     <section className={styles.features}>
-      <div className="container">
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloBlob)}
+        src={chirimboloBlobUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloGrid)}
+        src={chirimboloGridUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <div className={clsx('container', styles.featuresContent)}>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

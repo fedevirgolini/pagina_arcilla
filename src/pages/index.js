@@ -11,6 +11,10 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const logoUrl = useBaseUrl('/img/arcilla_logo_naranja.png');
   const videoUrl = useBaseUrl('/video/video_introductorio.mp4');
+  const chirimboloLogoUrl = useBaseUrl('/img/chirimbolos/chirimbolos-04.png');
+  const chirimboloVideoLeftUrl = useBaseUrl('/img/chirimbolos/chirimbolos-02.png');
+  const chirimboloVideoRightUrl = useBaseUrl('/img/chirimbolos/chirimbolos-05.png');
+  const chirimboloAccentUrl = useBaseUrl('/img/chirimbolos/chirimbolos-06.png');
   const videoRef = useRef(null);
   const [isMuted, setIsMuted] = useState(true);
 
@@ -23,6 +27,30 @@ function HomepageHeader() {
 
   return (
     <header className={styles.heroBanner}>
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloLogo)}
+        src={chirimboloLogoUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloVideoLeft)}
+        src={chirimboloVideoLeftUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloVideoRight)}
+        src={chirimboloVideoRightUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloHeaderAccent)}
+        src={chirimboloAccentUrl}
+        alt=""
+        aria-hidden="true"
+      />
       <img className={styles.logo} src={logoUrl} alt="Arcilla CECC" />
       <div className={styles.videoWrapper}>
         <video
@@ -75,9 +103,24 @@ function HomepageHeader() {
 }
 
 function HomepageIntro() {
+  const chirimboloLeftUrl = useBaseUrl('/img/chirimbolos/chirimbolos-12.png');
+  const chirimboloRightUrl = useBaseUrl('/img/chirimbolos/chirimbolos-09.png');
+
   return (
     <section className={styles.introSection}>
-      <div className={clsx('container', 'text--center')}>
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloIntroLeft)}
+        src={chirimboloLeftUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <img
+        className={clsx(styles.chirimbolo, styles.chirimboloIntroRight)}
+        src={chirimboloRightUrl}
+        alt=""
+        aria-hidden="true"
+      />
+      <div className={clsx('container', 'text--center', styles.introContent)}>
         <Heading as="h1" className={styles.introTitle}>
           ¡Les damos la bienvenida a la página oficial del Centro de Estudiantes de Ciencias de la Comunicación!
         </Heading>

@@ -4,13 +4,17 @@
  */
 
 .heroBanner {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 2rem 0 4rem;
+  overflow: hidden;
 }
 
 .logo {
+  position: relative;
+  z-index: 1;
   width: 100%;
   max-width: 280px;
   height: auto;
@@ -19,6 +23,7 @@
 
 .videoWrapper {
   position: relative;
+  z-index: 1;
   width: 50%;
 }
 
@@ -56,7 +61,14 @@
 }
 
 .introSection {
+  position: relative;
   padding: 3rem 1rem 1rem;
+  overflow: hidden;
+}
+
+.introContent {
+  position: relative;
+  z-index: 1;
 }
 
 .introTitle {
@@ -78,6 +90,70 @@
   margin-bottom: 0;
 }
 
+/* Chirimbolos: manchas decorativas de fondo, dispersas por la homepage.
+   Van siempre detrás del contenido real y no deben interferir con clicks. */
+.chirimbolo {
+  position: absolute;
+  z-index: 0;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+
+.chirimboloLogo {
+  top: -3%;
+  left: 6%;
+  width: clamp(70px, 9vw, 130px);
+  opacity: 0.55;
+  transform: rotate(-18deg);
+}
+
+.chirimboloVideoLeft {
+  top: 36%;
+  left: -7%;
+  width: clamp(160px, 24vw, 340px);
+  opacity: 0.45;
+  transform: rotate(9deg);
+}
+
+.chirimboloVideoRight {
+  top: 18%;
+  right: -9%;
+  width: clamp(150px, 22vw, 320px);
+  opacity: 0.5;
+  transform: rotate(-14deg) scaleX(-1);
+}
+
+.chirimboloHeaderAccent {
+  bottom: -7%;
+  right: 8%;
+  width: clamp(90px, 12vw, 170px);
+  opacity: 0.4;
+  transform: rotate(25deg);
+}
+
+/* La mancha negra necesita invertirse en modo oscuro: si no, queda
+   casi del mismo color que el fondo y se pierde. */
+[data-theme='dark'] .chirimboloHeaderAccent {
+  filter: invert(1);
+}
+
+.chirimboloIntroLeft {
+  bottom: -5%;
+  left: -4%;
+  width: clamp(120px, 16vw, 240px);
+  opacity: 0.45;
+  transform: rotate(-6deg);
+}
+
+.chirimboloIntroRight {
+  bottom: -9%;
+  right: -3%;
+  width: clamp(110px, 15vw, 220px);
+  opacity: 0.5;
+  transform: rotate(14deg) scaleX(-1);
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 1.5rem 2rem 2rem;
@@ -93,5 +169,18 @@
 
   .introSection {
     padding: 2rem 1.5rem 0.5rem;
+  }
+
+  .chirimboloVideoLeft,
+  .chirimboloVideoRight,
+  .chirimboloHeaderAccent,
+  .chirimboloIntroRight {
+    display: none;
+  }
+
+  .chirimboloLogo,
+  .chirimboloIntroLeft {
+    width: clamp(50px, 12vw, 90px);
+    opacity: 0.35;
   }
 }
