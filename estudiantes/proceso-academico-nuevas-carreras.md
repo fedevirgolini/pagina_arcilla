@@ -4,7 +4,7 @@ title: ¿Qué va a pasar con mi proceso académico?
 sidebar_position: 2
 ---
 
-# ¿Qué va a pasar con mi proceso académico a partir de la implementación de las nuevas carreras?
+# Rumbo a las nuevas carreras: estudiantes transformando la comunicación 
 
 A partir de la implementación de los nuevos planes, quienes ya somos estudiantes de la FCC podremos elegir entre las siguientes opciones:
 
