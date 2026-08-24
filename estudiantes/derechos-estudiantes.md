@@ -60,7 +60,7 @@ Como estudiantes de la universidad pública, tenemos derecho a recibir atención
 
 ## Licencia estudiantil
 
-Ante motivos de fuerza mayor, podés solicitar una licencia estudiantil que "congele" momentáneamente tu avance académico.
+Ante motivos de fuerza mayor, podés solicitar una licencia que "congele" momentáneamente tu avance académico. Durante el tiempo que establezca el certificado que presentes, para acreditar tu situación particular no correrán inasistencias, tampoco tendrás que rendir instancias de examen o concurrir a otras actividades académicas. Para solicitar la licencia debes ingresar un expendiente a la mesa de entrada de nuestra facultad. Desde el CECC podemos ayudarte a iniciar el trámite correspondiente.
 
 ## Comedor Universitario y Becas Nutrirse
 
