@@ -36,7 +36,7 @@ En primer lugar, deberás autorizar a la Secretaría de Transporte del Gobierno 
 
 ## Derecho a la identidad
 
-Tenés el derecho a ser reconocide e identificade por tu identidad, expresión de género y nombre elegido. Por eso, podés modificar tus datos en el Sistema Guaraní para que se adecuen a tu identidad autopercibida, sin importar que no hayas realizado el cambio de DNI. Para eso, deberás ingresar una nota a la mesa de entrada de nuestra casa de estudios. Podés acercarte al CECC para recibir asesoramiento al momento de redactarla.
+Tenés el derecho a ser reconocide e identificade por tu identidad, expresión de género y nombre elegido. Podés modificar tus datos en el Sistema Guaraní para que se adecuen a tu identidad autopercibida, sin importar que no hayas realizado el cambio de DNI. Para eso, deberás ingresar una nota a la mesa de entrada de nuestra casa de estudios. Podés acercarte al CECC para recibir asesoramiento al momento de redactarla.
 
 ## Salud
 
