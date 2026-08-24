@@ -44,12 +44,15 @@
 
 @media screen and (max-width: 996px) {
   .chirimboloBlob {
-    display: none;
+    top: 4%;
+    left: -8%;
+    width: clamp(90px, 20vw, 160px);
+    opacity: 0.35;
   }
 
   .chirimboloGrid {
-    width: clamp(50px, 12vw, 90px);
-    opacity: 0.35;
+    width: clamp(55px, 12vw, 100px);
+    opacity: 0.45;
   }
 }
 

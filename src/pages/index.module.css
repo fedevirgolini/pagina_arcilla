@@ -171,16 +171,35 @@
     padding: 2rem 1.5rem 0.5rem;
   }
 
-  .chirimboloVideoLeft,
-  .chirimboloVideoRight,
-  .chirimboloHeaderAccent,
-  .chirimboloIntroRight {
-    display: none;
+  .chirimboloLogo {
+    width: clamp(50px, 14vw, 90px);
+    opacity: 0.5;
   }
 
-  .chirimboloLogo,
-  .chirimboloIntroLeft {
-    width: clamp(50px, 12vw, 90px);
+  .chirimboloVideoLeft {
+    left: -4%;
+    width: clamp(70px, 20vw, 130px);
+    opacity: 0.4;
+  }
+
+  .chirimboloVideoRight {
+    right: -5%;
+    width: clamp(65px, 18vw, 120px);
+    opacity: 0.45;
+  }
+
+  .chirimboloHeaderAccent {
+    width: clamp(55px, 12vw, 100px);
     opacity: 0.35;
+  }
+
+  .chirimboloIntroLeft {
+    width: clamp(70px, 16vw, 130px);
+    opacity: 0.4;
+  }
+
+  .chirimboloIntroRight {
+    width: clamp(65px, 15vw, 120px);
+    opacity: 0.45;
   }
 }
