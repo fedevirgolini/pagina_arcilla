@@ -18,7 +18,7 @@ const FeatureList = [
   {
     title: 'Preguntas frecuentes',
     to: '/faq',
-    description: 'Respuestas a las dudas más comunes sobre el centro.',
+    description: 'Respuestas a las dudas más comunes sobre la implementación de las nuevas carreras y la continuidad del Plan 93.',
   },
 ];
 
