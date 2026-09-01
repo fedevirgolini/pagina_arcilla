@@ -49,7 +49,7 @@ A partir del 2028, luego de su certificación, se sumarán la Licenciatura en Co
 
 La facultad habilitó un simulador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní.
 
-[Simulador de equivalencias](https://fcc.unc.edu.ar/simulador-de-equivalencias/).
+[Click para acceder al simulador de equivalencias](https://fcc.unc.edu.ar/simulador-de-equivalencias/).
 
 
 </details>
