@@ -33,3 +33,5 @@ A continuación podrás ver en detalle la información correspondiente a cada ca
 Desde el 30 de noviembre al 11 de diciembre vas a poder realizar la inscripción al ciclo lectivo 2027 por medio del sistema SIU Guaraní. Por el momento, podés ir preparando tu DNI el cual deberás escanear o fotografiar de ambos lados. Además vas a necesitar el certificado de alumno regular correspondiente al último año del secundario o analítico en trámite. 
 
 Si ya egresaste del secundario podes presentar tu analítico. Tené en cuenta que más adelante, deberás realizar el trámite para legalizar tu analítico en la Oficialía Mayor de la UNC, para luego entregar en la Oficina de Estudiantes de nuestra facultad. 
+
+A partir de noviembre vas a poder crear tu usuario en SIU GUARANÍ y realizar la preisncripción a la propuesta que desees cursar. Si ya contas con un usuario en GUARANÍ tenés que ingresar con tu usuario y contraseña; desde allí, seleccioná Trámites → Preinscripción a propuestas y elegí la carrera a la que querés inscribirte.
