@@ -47,7 +47,9 @@ A partir del 2028, luego de su certificación, se sumarán la Licenciatura en Co
 <details>
 <summary>¿Cómo puedo saber qué materias me reconocen?</summary>
 
-La facultad pondrá a disposición un calculador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní.
+La facultad habilitó un simulador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní.
+[Simulador de equivalencias](https://fcc.unc.edu.ar/simulador-de-equivalencias/).
+
 
 </details>
 
