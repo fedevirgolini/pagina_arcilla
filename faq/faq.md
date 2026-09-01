@@ -32,7 +32,9 @@ años.
 <details>
 <summary><b>¿Cómo sé qué materias me van a reconocer?</b></summary>
 
-La facultad pondrá a disposición un calculador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní. 
+La facultad habilitó un simulador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní.
+
+[Click para acceder al simulador de equivalencias](https://fcc.unc.edu.ar/simulador-de-equivalencias/).
 
 </details>
 
@@ -47,9 +49,7 @@ desde el 30 de noviembre al 11 de diciembre.
 <details>
 <summary><b>¿El traspaso de equivalencias es automático o hay que pedirlo materia por materia?</b></summary>
 
-La facultad habilitó un simulador de equivalencias en el cual, luego de cargar nuestras materias aprobadas, nos brindará un listado de las materias que son reconocidas como equivalentes en los nuevos planes. Para que una materia sea considerada como aprobada debe estar cargada su nota final en el sistema Guaraní.
-
-[Click para acceder al simulador de equivalencias](https://fcc.unc.edu.ar/simulador-de-equivalencias/).
+A medida que se vayan dictando las materias que se te reconocerán como equivalentes vas a poder solicitar su reconocimiento a través de un formulario que habilitará secretaría académica.
 
 </details>
 
