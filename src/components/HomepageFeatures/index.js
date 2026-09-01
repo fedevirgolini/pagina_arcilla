@@ -13,7 +13,7 @@ const FeatureList = [
   {
     title: 'Estudiantes',
     to: '/estudiantes',
-    description: 'Recursos e información para quienes ya están cursando.',
+    description: 'Recursos e información para quienes ya están cursando. Conoce los espacios que componen al CECC. Además respondemos ¿Qué va a pasar con quienes ya estamos cursando el plan 93 ante la implementación de las nuevas carreras? ',
   },
   {
     title: 'Preguntas frecuentes',
